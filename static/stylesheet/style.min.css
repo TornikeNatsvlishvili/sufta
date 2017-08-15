@@ -1,0 +1,21 @@
+a {
+    text-decoration: none;
+}
+
+#banner h1 {
+    text-align: center;
+}
+
+.container {
+    width: 900px;
+    margin: 0 auto;
+}
+
+.entry-content {
+    display: flex;
+    flex-direction: column;
+}
+
+footer {
+    text-align: right;
+}
